@@ -8,4 +8,6 @@
 * Módulo de disparo de e-mails
 
 ## Instalação e configuração
- Esta loja é inspirada no Docker de Mark Oshust
+ Esta loja é inspirada no Docker de Mark Shust
+ 
+ https://github.com/markshust/docker-magento
