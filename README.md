@@ -8,4 +8,4 @@
 * Módulo de disparo de e-mails
 
 ## Instalação e configuração
-
+ Esta loja é inspirada no Docker de Mark Oshust
